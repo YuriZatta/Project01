@@ -115,7 +115,7 @@ I'm proud of this two simple calculators that takes the result of the actual Tax
                 "your life.\n")
 ```
 
-#### Tax Rules followed in this point in time!
+## Tax Rules followed in this point in time!
 | Income | Gate | Estimated Tax | Local |
 | --- | :---: |  :---: | :---: |
 | x | < 12509 | 00% | UK Non-Scotland |
@@ -136,7 +136,7 @@ I'm proud of this two simple calculators that takes the result of the actual Tax
 | x | < 50000 | 09% | Self-Employed |
 | x | > 50000 | 02% | Self-Employed |
 
-### User Manual
+## User Manual
 ### TaxCalculator:
 1. Method to input brut annual income
      * `def brut_income(self, wage):`
