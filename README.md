@@ -4,7 +4,7 @@
 
 | Language | Type          | Date  | Due | Author               |
 | -------- | ------------- | ----- | ---- | -------------------- |
-| Python   | Project 01 - The Tax Calculator | 14/06/2020 | 18/06/2020 | Yuri Vianna Nunes |
+| Python   | Project 01 - The Tax Calculator | 14/06/2020 | 18/06/2020 | Yuri |
 
 ## Project Description
 Project Tax Calculator.
