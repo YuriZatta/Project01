@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 01
 
-![gif](<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/67ThRZlYBvibtdF9JH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunes-looney-tunes-bugs-bunny-pay-day-67ThRZlYBvibtdF9JH">via GIPHY</a></p>)
+![gif](https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif)
 
 | Language | Type          | Date  | Due | Author               |
 | -------- | ------------- | ----- | ---- | -------------------- |
